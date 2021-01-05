@@ -1,0 +1,9 @@
+apple
+car
+phone
+speed
+circle
+password
+fire
+wheel
+bullet
